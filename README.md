@@ -11,7 +11,6 @@ Building modern, scalable web applications with React, TypeScript, Node.js, and 
 
 ---
 
----
 
 ## About Me
 
