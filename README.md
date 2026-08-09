@@ -54,3 +54,39 @@ I'm a Full-Stack Web Developer with a strong focus on frontend development and h
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+
+
+---
+
+## AI & Modern Development
+
+I integrate AI into my development workflow to improve productivity, accelerate problem-solving, and build software more efficiently while maintaining full ownership of architecture, logic, and engineering decisions.
+
+- AI-assisted development with ChatGPT, GitHub Copilot, Cursor AI, Claude, and Gemini.
+- AI-powered workflows for development, debugging, research, and problem-solving.
+- Automation of repetitive development tasks to improve efficiency and productivity.
+- Using AI as an engineering tool while maintaining code quality, security, and best development practices.
+
+---
+
+## Education & Certification
+
+- **Computer Science Student**
+- **Frontend Development Certificate — MCE**
+
+
+---
+
+## What I'm Focused On
+
+Building production-quality full-stack applications, deepening my backend and database expertise, and developing efficient AI-augmented software engineering workflows.
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/adhvmhvny6](https://www.linkedin.com/in/adhvmhvny6)
+- **Email:** [adhvmhvny6@gmail.com](mailto:adhvmhvny6@gmail.com)
+
+Open to opportunities in full-stack and frontend development.
+
